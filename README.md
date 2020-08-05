@@ -1,5 +1,6 @@
 # Grafana Echarts Barchart - for WTF using
-# Modified plugin: https://github.com/Billiballa/grafana-echarts
+
+Modified plugin: https://github.com/Billiballa/grafana-echarts
 
 Echarts Barchart for grafana 6+ & 7+, coding with react.
 
@@ -9,8 +10,6 @@ Echarts Barchart for grafana 6+ & 7+, coding with react.
 
 1. Clone this repo to "/grafana_path/data/plugins".
 2. Restart grafana.
-
-(Map support: Add YourMap.json to **src/map** and run ``yarn build``, panel will auto register it(``echarts.registerMap('YourMap', {...}))``).
 
 ## Custom
 
