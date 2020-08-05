@@ -1,0 +1,36 @@
+{
+  "type": "panel",
+  "name": "Echarts",
+  "id": "taianesb-94-echarts-panel",
+  "info": {
+    "description": "Echarts panel for grafana",
+    "author": {
+      "name": "TaianeSB-94",
+      "url": "https://github.com/TaianeSB-94"
+    },
+    "keywords": [
+      "echarts"
+    ],
+    "logos": {
+      "small": "img/logo.png",
+      "large": "img/logo.png"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/TaianeSB-94/grafana-echarts-barcharts"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/TaianeSB-94/grafana-echarts-barcharts/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
