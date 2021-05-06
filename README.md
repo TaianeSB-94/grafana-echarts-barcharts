@@ -1,5 +1,4 @@
-# Grafana Echarts Barchart - for WTF using
-
+# Grafana Echarts Barchart
 Modified plugin: https://github.com/Billiballa/grafana-echarts
 
 Echarts Barchart for grafana 6+ & 7+, coding with react.
